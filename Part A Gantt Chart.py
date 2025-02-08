@@ -2,7 +2,7 @@
 """
 Created on Wed Apr 17 11:28:53 2024
 
-@author: Megan
+@author: Devraj
 """
 
 #importing necessary libraries/modules
@@ -64,4 +64,4 @@ ax.set_xticks(date_range)
 ax.tick_params(axis = 'x', labelrotation = 45)
 ax.xaxis.grid(True, alpha = 0.5)
 
-#creat
+#create
