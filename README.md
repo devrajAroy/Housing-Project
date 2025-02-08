@@ -1,5 +1,5 @@
 # Housing Project
-# 1 Introduction
+## 1 Introduction
 
  This report shows our investigations into housing using the data given to us, from which we
  were able to make our conclusions. The information includes demographic nature, type price
@@ -14,16 +14,16 @@
 down of the people and their roles in this project. We will look to employ the same sort of
  mathematical rigor and clarity in the presentation of our method as we do in our main body.
 
- # 2 Part A: Project Plan Gantt Chart
+ ## 2 Part A: Project Plan Gantt Chart
 
  The figure below displays the Gantt chart used to plan the project.
  
  ![Gantt Chart](https://github.com/user-attachments/assets/3621869e-141a-4c59-b3d8-3308405bdfc3)
 
-# 3 Part B: Data Analysis and Visualisation
-# 3.1 Prescribed Analysis
+## 3 Part B: Data Analysis and Visualisation
+### 3.1 Prescribed Analysis
 
-Section 1
+<ins>**Section 1**</ins>
 
 ![pic 1](https://github.com/user-attachments/assets/38019bb5-b15d-41c6-8ccc-72ad479fb6f3)
 
@@ -47,7 +47,7 @@ Across the regions, home ownership seemed fairly consistent from 1996 to 2006. T
  as the Northern Ireland Co-ownership Housing Scheme, developed in 1978, and the Scottish
  Government’s Shared Equity Scheme, developed in 1983.
 
- Section 2
+ <ins>**Section 2**</ins>
 
 ![Pic 2](https://github.com/user-attachments/assets/7010d8ce-3f82-4b61-b19f-ca6b5d691507)
 ![Pic 3](https://github.com/user-attachments/assets/f9f23dc1-8648-4913-b3f5-8f3a6116e704)
@@ -63,7 +63,7 @@ Across the regions, home ownership seemed fairly consistent from 1996 to 2006. T
  increasing the supply of affordable housing through the private sector rather than relying on
  social housing.
 
- Section 3
+ <ins>**Section 3**</ins>
 
  
 
