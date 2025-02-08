@@ -22,3 +22,54 @@ down of the people and their roles in this project. We will look to employ the s
 
 # 3 Part B: Data Analysis and Visualisation
 # 3.1 Prescribed Analysis
+
+Section 1
+
+![pic 1](https://github.com/user-attachments/assets/38019bb5-b15d-41c6-8ccc-72ad479fb6f3)
+
+Across the regions, home ownership seemed fairly consistent from 1996 to 2006. The South
+ East and South West maintained steady home ownership rates throughout this time. This
+ could be attributed to a relatively stable housing market and the fact that these regions have
+ a stronger economy compared to the northern parts of the UK. However, London was already
+ experiencing a decline in home ownership, exhibiting the lowest owner-occupancy rates out
+ of all regions. This is likely due to the high property prices in London resulting from high
+ demand and the fact that more people in London tend to rent rather than own a property
+ Pettinger (2022). After 2006, there was a significant drop in home ownership, which could
+ be attributed to the global financial crisis of 2007-2008 and its aftermath Helmores (2024).
+ The crisis led to stricter mortgage lending standards and a decrease in available credit Smith
+ (2008). This made it increasingly difficult for people to secure home loans. Additionally, the
+ crash of the housing market led to a decline in property values in many regions, potentially
+ putting some households into negative equity and making it difficult for them to sell or buy
+ homes. When analysing the data by country, England and Wales show a similar pattern to
+ the trend shown by the regions. What was notable was the stark increase in home ownership
+ in Northern Ireland and Scotland between 1996 and 2006. One of the reasons for this was
+ the implementation of targeted government housing initiatives for underprivileged people, such
+ as the Northern Ireland Co-ownership Housing Scheme, developed in 1978, and the Scottish
+ Government’s Shared Equity Scheme, developed in 1983.
+
+ Section 2
+
+![Pic 2](https://github.com/user-attachments/assets/7010d8ce-3f82-4b61-b19f-ca6b5d691507)
+![Pic 3](https://github.com/user-attachments/assets/f9f23dc1-8648-4913-b3f5-8f3a6116e704)
+![Pic 4](https://github.com/user-attachments/assets/5520a50c-ff00-4383-9430-5442a49cb726)
+
+ By comparing the patterns of renting over time by region and country in the UK, we can see
+ that private renting has gradually increased in all regions and countries, whereas social renting
+ has been on a steady decline between 1996 and 2016. London stands out as the region with the
+ highest proportion of households privately renting. This relates back to how generally more
+ people in London can only afford to rent rather than purchase a property Pettinger (2022). We
+ mayattribute the decline in social renting across all regions and countries to government policies
+ over the years which have aimed to implement and promote home ownership initiatives, thereby
+ increasing the supply of affordable housing through the private sector rather than relying on
+ social housing.
+
+ Section 3
+
+ 
+
+
+
+
+
+
+
